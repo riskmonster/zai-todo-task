@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skills": {
+    "@tencent-adm/wechatide-skill": {
+      "name": "微信开发者工具 Skills",
+      "zip_url": "https://api.skillhub.cn/api/v1/download?slug=wechatide-skill&namespace=tencent-adm",
+      "source": "enterprise",
+      "version": "0.3.2",
+      "namespace": {
+        "canonicalName": "@tencent-adm/wechatide-skill",
+        "displayName": "tencent-adm",
+        "handle": "tencent-adm",
+        "publicSlug": "wechatide-skill"
+      },
+      "internalSlug": "wechatide-skill",
+      "publicSlug": "wechatide-skill",
+      "installDir": "C:\\Users\\User\\web-chat-app-dev\\.agents\\skills\\wechatide-skill"
+    }
+  }
+}
